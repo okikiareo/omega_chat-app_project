@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": "FbnHedTQi6JGyCg",
+      "name": "Enya Marsh",
+      "post": "dignissim cras tincidunt lobortis feugiat vivamus at augue eget arcu dictum varius duis at consectetur lorem donec massa sapien faucibus et molestie ac feugiat",
+      "time": 1677618606828,
+      "likes": 0,
+      "replies": [
+        {
+          "name": "Guest User",
+          "time": 1677618987553,
+          "reply": "Hey, Welcome to Yappie"
+        },
+        {
+          "name": "Guest User",
+          "time": 1677662061657,
+          "reply": "Hey There"
+        }
+      ]
+    },
+    {
+      "id": "eqBQaWH9_tgiZZP",
+      "name": "Hiba Woods",
+      "post": "bibendum at varius vel pharetra vel turpis nunc eget lorem dolor sed viverra ipsum nunc",
+      "time": 1676618756833,
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "id": "HFKh7RiBbU8bAN4",
+      "name": "Pena Cooks",
+      "post": "non quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique sollicitudin nibh sit",
+      "time": 1677318126828,
+      "likes": 0,
+      "replies": []
+    },
+    {
+      "id": "cF-HAJT3A9xBrYW",
+      "name": "Ryan Olson",
+      "post": "cursus turpis massa tincidunt dui ut ornare lectus sit amet est placerat in egestas erat imperdiet sed euismod nisi porta lorem mollis aliquam ut porttitor",
+      "time": 1677208595067,
+      "likes": 0,
+      "replies": []
+    }
+  ]
+}
